@@ -3,7 +3,7 @@ Contest_Problems
 
 ## Introduction
 
-A collection of my accepted contest problems since June 14th, 2014.  Most problems are coded in Java.  I will be experimenting with using C++ and Python in the future.
+A collection of my accepted contest problems since January 1st, 2014.  Most problems are coded in Java.  I will be experimenting with using C++ and Python in the future.
 
 ##Problem Sites
 [TJU ACM-ICPC Online Judge](http://acm.tju.edu.cn/toj/)<br>
